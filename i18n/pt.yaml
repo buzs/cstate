@@ -87,9 +87,9 @@
 
 
 - id: calmBeforeTheStorm
-  translation: Esta é a calma antes da tempestade?
+  translation: Está calmo demais para ser verdade?
 - id: noIncidentsDesc
-  translation: Esta página de status não possui incidentes registrados. Isso pode ocorrer porque o proprietário da página de status (ou proprietários) configurou recentemente sua página de status, não teve tempo de inatividade ou não registrou nenhum tempo de inatividade.
+  translation: Esta página  não possui incidentes registrados. Isso pode ocorrer porque o proprietário da página de status (ou proprietários) configurou recentemente, ou os serviços realmente ainda não ficaram fora do ar.
   
 - id: continueReading
   translation: Continuar lendo
@@ -105,23 +105,23 @@
 - id: goBack
   translation: Voltar para
 - id: backToTop
-  translation: Ir para o inicio
+  translation: Ir para o topo
 - id: poweredBy
   translation: Powered by
 
 - id: notFound
-  translation: Não há nada aqui.
+  translation: Não tem nada aqui.
 - id: notFoundText
-  translation: Isso pode ser um problema de nossa parte. Talvez tenhamos movido um recurso e agora ele tenha desaparecido. Também é possível que o recurso que você está tentando visualizar esteja vazio. Mas você se importa de verificar o link?
+  translation: Isso pode ser um problema de nossa parte. Talvez tenhamos movido um recurso e agora ele desapareceu. Também é possível que o recurso que você está tentando visualizar esteja vazio. Mas você se importa de verificar o link?
 
 - id: rss
-  translation: Assine via RSS
+  translation: Inscreva-se via RSS
 - id: toAllUpdates
   translation: para todas as atualizações
 - id: or
   translation: ou
 - id: onlyThisFeed
-  translation: somente este feed
+  translation: somente a essa fonte
 
 ##
 ## v3
