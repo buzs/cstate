@@ -1,0 +1,146 @@
+# Portuguese language file for cState
+# Version 4.1
+
+- id: languageCode
+  translation: pt
+- id: languageName
+  translation: Portuguese
+- id: languageNameShort
+  translation: POR
+
+##
+## INDEX.HTML
+##
+
+# Summary status message
+- id: isDown
+  translation: Enfrentando grandes problemas
+- id: isDisrupted
+  translation: Enfrentando interrupções
+- id: isNotice
+  translation: Por favor, leia o aviso
+- id: isOk
+  translation: Todos os sistemas operacionais
+
+# No JS warning
+- id: noScriptingIntro
+  translation: Uh oh! Parece que você desativou o JavaScript. Por favor
+- id: noScriptingLink
+  translation: ative o script
+- id: noScriptingOutro
+  translation: para melhorar sua experiência neste site.
+
+- id: thisIsDown
+  translation: Indisponivel
+- id: thisIsDisrupted
+  translation: Interrompido
+- id: thisIsNotice
+  translation: Manutenção
+- id: thisIsOk
+  translation: Operacional
+
+# "Last checked" + "just now"
+- id: lastChecked
+  translation: Última verificação
+- id: justNow
+  translation: neste momento
+- id: someTimeAgo
+  translation: atrás
+
+# Example usage: `5` + `years`
+# Final result: 'Last checked 5 years ago'
+# Number goes before string
+# Use short variants until months
+- id: yearsAgo
+  translation: anos
+- id: monthsAgo
+  translation: meses
+- id: daysAgo
+  translation: d
+- id: hoursAgo
+  translation: h
+- id: minsAgo
+  translation: min
+- id: secondsAgo
+  translation: s
+
+- id: autoRefreshNotice
+  translation: Vamos tentar atualizar a cada 5 minutos
+
+# Incidents
+- id: incidents
+  translation: Incidentes
+- id: incidentHistory
+  translation: Histórico de incidentes
+
+- id: resolved
+  translation: Resolvido # if it's less than a min
+- id: inUnderAMinute
+  translation: em menos de um minuto # continuing the last string
+- id: resolvedAfter
+  translation: Resolvido após # + 19 min
+- id: ofDowntime
+  translation: de inatividade
+
+- id: downtimeOngoing
+  translation: Este problema ainda não foi resolvido
+
+
+- id: calmBeforeTheStorm
+  translation: Esta é a calma antes da tempestade?
+- id: noIncidentsDesc
+  translation: Esta página de status não possui incidentes registrados. Isso pode ocorrer porque o proprietário da página de status (ou proprietários) configurou recentemente sua página de status, não teve tempo de inatividade ou não registrou nenhum tempo de inatividade.
+  
+- id: continueReading
+  translation: Continuar lendo
+- id: prev
+  translation: Anterior
+- id: next
+  translation: Próximo
+
+##
+## OTHER
+##
+
+- id: goBack
+  translation: Voltar para
+- id: backToTop
+  translation: Ir para o inicio
+- id: poweredBy
+  translation: Powered by
+
+- id: notFound
+  translation: Não há nada aqui.
+- id: notFoundText
+  translation: Isso pode ser um problema de nossa parte. Talvez tenhamos movido um recurso e agora ele tenha desaparecido. Também é possível que o recurso que você está tentando visualizar esteja vazio. Mas você se importa de verificar o link?
+
+- id: rss
+  translation: Assine via RSS
+- id: toAllUpdates
+  translation: para todas as atualizações
+- id: or
+  translation: ou
+- id: onlyThisFeed
+  translation: somente este feed
+
+##
+## v3
+##
+- id: entries
+  translation: entradas
+- id: newestToOldest
+  translation: mais recente para mais antiga
+
+##
+## v4
+##
+- id: notFoundAffected
+  translation: Parece que esse sistema não existe ou nunca teve nenhum tempo de inatividade registrado.
+##
+## v4.1
+## 
+
+- id: averageSystemsDowntime
+  translation: Recentemente, com base em dados médios, parece que este sistema caiu por cerca de
+- id: averageSystemsDowntimeSecondPart
+  translation: minutos.
